@@ -5,7 +5,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi 👋, I'm Muna</h1>
-<h3 align="center">A proactive and self-motivated full stack developer dedicated to learning new things</h3>
 
 - 👀 I’m interested in **creative coding**
 - 🌱 I’m currently learning **JavaScript**
